@@ -1,6 +1,7 @@
 body {
     background-color: #000;
     color: #fff;
+    align-content: center;
   }
   
   #grid1 .btn {

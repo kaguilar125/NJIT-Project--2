@@ -1,5 +1,5 @@
 let planetArray = [ 
-    {"name": "Mercury", "distance": "36 million miles", "size": "3,032 mile diameter", "description": "Mercury is the smallest planet in our solar system and closest to the Sun."},
+    {"name": "Guadalajara, Jalisco", "distance": "Panoramica Guadalajara", "size": "3,032 mile diameter", "description": "Mercury is the smallest planet in our solar system and closest to the Sun."},
     {"name": "Venus", "distance": "26 million miles", "size": "7,521 mile diameter", "description": "Venus has a thick, toxic atmosphere that traps heat, making it the hottest planet."},
     {"name": "Earth", "distance": "93 million miles", "size": "7,926 mile diameter", "description": "Earth is the only planet known to support life, with diverse ecosystems."},
     {"name": "Mars", "distance": "49 million miles", "size": "4,221 mile diameter", "description": "Mars is known as the Red Planet and is the focus of many exploration missions."},
