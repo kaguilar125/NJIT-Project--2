@@ -1,13 +1,13 @@
 let planetArray = [ 
-    {"name": "Guadalajara, Jalisco", "distance": "Panoramica Guadalajara", "size": "3,032 mile diameter", "description": "Mercury is the smallest planet in our solar system and closest to the Sun."},
-    {"name": "Venus", "distance": "26 million miles", "size": "7,521 mile diameter", "description": "Venus has a thick, toxic atmosphere that traps heat, making it the hottest planet."},
-    {"name": "Earth", "distance": "93 million miles", "size": "7,926 mile diameter", "description": "Earth is the only planet known to support life, with diverse ecosystems."},
-    {"name": "Mars", "distance": "49 million miles", "size": "4,221 mile diameter", "description": "Mars is known as the Red Planet and is the focus of many exploration missions."},
-    {"name": "Jupiter", "distance": "483.7 million miles", "size": "142,984 mile diameter", "description": "Jupiter is the largest planet in our solar system, with a prominent Great Red Spot."},
-    {"name": "Saturn", "distance": "889.8 million miles", "size": "74,898 mile diameter", "description": "Saturn is famous for its extensive ring system, made mostly of ice particles."},
-    {"name": "Uranus", "distance": "1.8 billion miles", "size": "31,763 mile diameter", "description": "Uranus has a unique blue-green color due to methane in its atmosphere."},
-    {"name": "Neptune", "distance": "2.8 billion miles", "size": "30,775 mile diameter", "description": "Neptune is known for its deep blue color and supersonic winds."},
-    {"name": "Pluto", "distance": "3.67 billion miles", "size": "1,477 mile diameter", "description": "Once classified as the ninth planet, Pluto is now considered a dwarf planet."}
+    {"name": "Guadalajara, Jalisco", "distance": "Panoramica Guadalajara"},
+    {"name": "Morelos, Mexico", "distance": "Ecatepec de Morelos"},
+    {"name": "Morelia, Michoacan", "distance": "Capitala de Morelia"},
+    {"name": "Santo Domingo, Oaxaca", "distance": "Zocalo"},
+    {"name": "Guadalajara, Jalisco", "distance": "Cathedral of the Assumption of Our Lady"},
+    {"name": "Puebla, Puebla", "distance": "Catedral de Puebla"},
+    {"name": "Uranus", "distance": "1.8 billion miles"},
+    {"name": "Neptune", "distance": "2.8 billion miles"},
+    {"name": "Pluto", "distance": "3.67 billion miles"}
 ];
 
 
