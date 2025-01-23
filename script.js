@@ -5,9 +5,9 @@ let planetArray = [
     {"name": "Santo Domingo, Oaxaca", "distance": "Zocalo"},
     {"name": "Guadalajara, Jalisco", "distance": "Cathedral of the Assumption of Our Lady"},
     {"name": "Puebla, Puebla", "distance": "Catedral de Puebla"},
-    {"name": "Uranus", "distance": "1.8 billion miles"},
-    {"name": "Neptune", "distance": "2.8 billion miles"},
-    {"name": "Pluto", "distance": "3.67 billion miles"}
+    {"name": "Mazatlán, Sinaloa", "distance": "Pacific shoreline"},
+    {"name": "Quintana Roo, Yucatan", "distance": "Playa del Carmen"},
+    {"name": "San Luis Potosi, San Luis Potosi", "distance": "Catedral Metropolitana de San Luis Rey"}
 ];
 
 
